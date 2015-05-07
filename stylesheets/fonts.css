@@ -4,6 +4,6 @@
     font-weight:    400;
     src:            local('Architects Daughter'), 
                     local('ArchitectsDaughter'), 
-                    url('fonts/architectsdaughter/architectsdaughter.woff2') format('woff2'), 
-                    url('fonts/architectsdaughter/architectsdaughter.woff') format('woff' );
+                    url('../fonts/architectsdaughter/architectsdaughter.woff2') format('woff2'), 
+                    url('../fonts/architectsdaughter/architectsdaughter.woff') format('woff' );
 }
